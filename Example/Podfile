@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WLaCommonKit_Tests' do
+  pod 'WLaCommonKit', :path => '../'
+  
+  
+end
