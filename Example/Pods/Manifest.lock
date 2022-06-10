@@ -1,0 +1,16 @@
+PODS:
+  - WLaCommonKit (1.0.1)
+
+DEPENDENCIES:
+  - WLaCommonKit (from `../`)
+
+EXTERNAL SOURCES:
+  WLaCommonKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WLaCommonKit: bc3f28be4f699c1a589aec2cb6f7ba2fe705b614
+
+PODFILE CHECKSUM: 0874c90690e6d0602151594273b040f36a6ccf6a
+
+COCOAPODS: 1.11.3

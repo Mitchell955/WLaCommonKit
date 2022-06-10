@@ -1,0 +1,6 @@
+framework module Pods_WLaCommonKit_Tests {
+  umbrella header "Pods-WLaCommonKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

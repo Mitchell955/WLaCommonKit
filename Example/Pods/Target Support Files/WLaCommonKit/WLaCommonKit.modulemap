@@ -1,0 +1,6 @@
+framework module WLaCommonKit {
+  umbrella header "WLaCommonKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
